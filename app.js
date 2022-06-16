@@ -1,5 +1,8 @@
-const canvas = document.getElementById(jsCanvas);
+const canvas = document.getElementById("jsCanvas");
 const ctx = canvas.getContext("2d");
+
+canvas.width = 800;
+canvas.height = 800;
 
 ctx.strokeStyle = "#2c2c2c"; //첫 번째색(검정색)으로 시작하도록 설정
 ctx.lineWidth = 2.5;
