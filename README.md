@@ -21,6 +21,8 @@ URL : https://seoye0ng.github.io/paint-js/
 ### 3. 이미지 저장
 * HTMLCanvasElement.toDataURL()메서드를 사용해 data URL을 반환하여 저장하도록 함수를 구현
 
+<br/>
+
 ## 🗃 프로젝트 블로그 정리
 * [그림판 클론코딩 (1)](https://archive0313.tistory.com/33?category=1009873)
 * [그림판 클론코딩 (2)](https://archive0313.tistory.com/34?category=1009873)
